@@ -1,0 +1,83 @@
+body {
+	background-color: 
+}
+.container{
+	width: 700px;
+	margin: auto;
+}
+.picture {
+	width: 150px;
+	border-radius: 100%;
+	margin : 5px;
+	top: 20px;
+	;
+}
+
+h1{
+	color: black;
+	font-size: 40px;
+	font-family: 'Indie Flower', cursive;
+
+
+}
+.card1{
+text-align : center;
+background-color : white;
+border : 1px solid white;
+margin : 10px;
+border-radius: 10px;
+box-shadow: 0px 0px 23px -6px rgba(0,0,0,0.75);
+height: 450px;
+font-family: 'Sulphur Point', sans-serif;
+font-size: 20px;
+
+
+}
+
+.card2, .card3{
+	border : 1px solid white;
+	padding: 20px;
+	background-color : white;
+	margin : 10px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 23px -6px rgba(0,0,0,0.75);
+	text-align : center;
+	height: 100px;
+	font-family: 'Sulphur Point', sans-serif;
+	font-size: 20px;
+
+}
+
+.bouton, .bouton2, .bouton3{
+	margin: 50px;
+	padding: 10px 5px;
+	background-color : #EC7357;
+	border-radius: 10px;
+	width : 200px;
+	letter-spacing: 0,5em;
+	color: black;
+}
+.bouton:hover, .bouton2:hover {
+	color:#FFFFFF;
+}
+.presentation { 
+	margin-bottom: 40px;
+}
+.presentationbis {
+ 	margin-bottom: 30px;
+ }
+
+.kedge-link {
+	text-decoration: none;
+}
+.bouton, .bouton2{
+	text-decoration: none;
+	color:black;
+}
+
+.kedge-link:hover {
+	color: black;
+}
+.kedge-link:visited{
+	color:#EC7357;
+}
